@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.tick {
+  transition-duration: 200ms;
+  color: white;
+  background-color: rgb(128, 128, 255);
+  transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.tick:hover {
+  transform: scale(0.9);
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.tick:active {
+  transform: scale(0.8);
+  transition-duration: 200ms;
+  color: black;
+  background-color: white;
+  transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}

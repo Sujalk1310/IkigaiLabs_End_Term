@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IkigaiLabs_End_Term/static/css/main.f29da956.css",
+    "main.js": "/IkigaiLabs_End_Term/static/js/main.1ee5bc9a.js",
+    "index.html": "/IkigaiLabs_End_Term/index.html",
+    "main.f29da956.css.map": "/IkigaiLabs_End_Term/static/css/main.f29da956.css.map",
+    "main.1ee5bc9a.js.map": "/IkigaiLabs_End_Term/static/js/main.1ee5bc9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f29da956.css",
+    "static/js/main.1ee5bc9a.js"
+  ]
+}
